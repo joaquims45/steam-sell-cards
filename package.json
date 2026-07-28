@@ -1,0 +1,10 @@
+{
+  "name": "steam-sell-bulk",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dry": "node ./scripts/sell-cards.mjs --dry-run",
+    "sell": "node ./scripts/sell-cards.mjs --live"
+  }
+}

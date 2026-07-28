@@ -1,0 +1,24 @@
+{
+  "steamId64": "7656119XXXXXXXXXX",
+  "language": "english",
+  "currency": 1,
+  "cookies": {
+    "sessionid": "PASTE_YOUR_SESSIONID",
+    "steamLoginSecure": "PASTE_YOUR_STEAMLOGINSECURE",
+    "steamCountry": "AR%7Cxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "extraCookies": {}
+  },
+  "price": {
+    "mode": "undercut_lowest",
+    "undercutCents": 1,
+    "minimumBuyerPayCents": 3,
+    "fallbackBuyerPayCents": 3,
+    "defaultPublisherFee": 0.1
+  },
+  "filters": {
+    "includeFoil": true
+  },
+  "timing": {
+    "requestDelayMs": 2500
+  }
+}
