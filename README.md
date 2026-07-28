@@ -4,6 +4,12 @@ Bulk seller for Steam trading cards using your current Steam Community web sessi
 
 Vendedor masivo de cromos de Steam usando tu sesion web actual de Steam Community.
 
+## Language
+
+- [English](#english)
+- [Espanol](#espanol)
+
+<a id="english"></a>
 ## English
 
 ### What This Project Does
@@ -228,6 +234,7 @@ Sell first 10 cards:
 - sudden login errors
   Your cookies likely expired. Export them again.
 
+<a id="espanol"></a>
 ## Espanol
 
 ### Que Hace Este Proyecto
